@@ -7,7 +7,7 @@ You need to download the [MNIST](https://github.com/myleott/mnist_png), [USPS](h
 
 The experiments are conducted on one GPU (NVIDIA RTX TITAN).
 
-- python == 3.7.3  
-- pytorch == 1.6.0  
-- torchvision == 0.7.0
+- python == 3.8.5
+- pytorch == 1.13.1 
+- torchvision == 0.14.1 
  
