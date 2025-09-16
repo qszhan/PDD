@@ -11,3 +11,24 @@ The experiments are conducted on one GPU (NVIDIA RTX TITAN).
 - pytorch == 1.13.1 
 - torchvision == 0.14.1 
  
+## Training and evaluation
+
+Please refer to the file on [run.sh](run.sh).
+
+---
+
+## Citation
+
+Zhan, Q., Wang, Q., Zeng, Xiao-Jun. Progressive Dual-Space Discovering of Unknowns for Source-Free Open-Set Domain Adaptation. *ECML-PKDD* (2025).  
+
+---
+
+## Acknowledgement
+
+The code is based on  [SHOT (ICML 2020, also source-free)](https://arxiv.org/abs/2002.08546), and [TPDS](https://github.com/tntek/TPDS/blob/main/README.md).
+
+---
+
+## Contact
+
+- [qianshan.zhan@manchester.ac.uk](mailto:qianshan.zhan@manchester.ac.uk)
