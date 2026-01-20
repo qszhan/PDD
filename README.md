@@ -25,7 +25,7 @@ Zhan, Q., Wang, Q., Zeng, Xiao-Jun. Progressive Dual-Space Discovering of Unknow
 
 ## Acknowledgement
 
-The code is based on  [SHOT (ICML 2020, also source-free)](https://arxiv.org/abs/2002.08546), and [TPDS](https://github.com/tntek/TPDS/blob/main/README.md).
+The code is based on  [SHOT (ICML 2020, also source-free)](https://arxiv.org/abs/2002.08546), and [TPDS](https://github.com/tntek/TPDS/blob/main/README.md).  We thank the authors for releasing their excellent work.
 
 ---
 
